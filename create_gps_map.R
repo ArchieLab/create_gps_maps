@@ -8,4 +8,6 @@
 ## You will be prompted to give you babase username and password
 source("./code/Rscript/naming_groves_for_phone.R")
 
-## The final map will be in the map foldert
+## The final map will be in the map folder
+## Send the locations.gpx file to Beth
+## It also saves a version per date
