@@ -1,4 +1,4 @@
-## This scrip will create the maps that are uploaded used on the maps of the team in the field. 
+## This script will create the maps that are uploaded to make maps on the GPS units used by the team in the field.
 
 ## It will show different symbols for the groves and waterholes
 
