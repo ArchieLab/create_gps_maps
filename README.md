@@ -1,5 +1,5 @@
-Creates a "locations.gpx" file that can loaded onto the field team's
-GPS units.
+Creates a "locations.gpx" file that can be loaded onto the field
+team's GPS units.
 
 "create_gps_map.R" does not work on Macs.  NEEDS FIX
 
